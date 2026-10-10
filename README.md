@@ -2,6 +2,6 @@
 
 保留20日复刻练习，新增最多12日原创押运挑战。第4/8/12日三次合约，第9日起可提前重囚押运并结束；交付拿走囚犯，侦察与押运共用调度券。右侧建议可关闭；Three.js场景含名称与稀有度，保留已有配音、操作音效与环境声。
 
-合约、压力和积分为实验规则，不代表正式游戏掉落。只在自己的浏览器保存存档；运行无供应商API调用和凭据。原证据、转写和私有验收报告不在本仓库。Three.js许可在dist/vendor/three/LICENSE。
+合约、压力和积分为实验规则，不代表正式游戏掉落。只在自己的浏览器保存存档；运行无供应商API调用和凭据。原证据、转写和私有验收报告不在本仓库。Three.js许可在vendor/three/LICENSE。
 
-部署输出dist/；配置.openai/hosting.json。
+正式试玩入口：[torchlightskill.com/talos/](https://torchlightskill.com/talos/)。本仓库是公开运行资源的版本镜像；正式站由官网仓库的talos/目录发布，此镜像没有独立Pages域名。
